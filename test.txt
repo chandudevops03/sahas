@@ -1,3 +1,7 @@
 
 adding test.txt
+<<<<<<< HEAD
 sorted files information
+=======
+hello world
+>>>>>>> 6d531cde86e2d7f111a5906d651fb4c86f84f092
